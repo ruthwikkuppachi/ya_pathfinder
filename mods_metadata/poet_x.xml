@@ -1,0 +1,48 @@
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:zs="http://docs.oasis-open.org/ns/search-ws/sruResponse" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+<titleInfo>
+<title>The Poet X</title>
+</titleInfo>
+<name type="personal" usage="primary">
+<namePart>Acevedo, Elizabeth</namePart>
+</name>
+<typeOfResource>text</typeOfResource>
+<genre authority="marcgt">novel</genre>
+<originInfo eventType="publication">
+<place>
+<placeTerm authority="marccountry" type="code">xxu</placeTerm>
+</place>
+<dateIssued encoding="marc">2018</dateIssued>
+<issuance>single unit</issuance>
+<publisher>HarperTeen</publisher>
+</originInfo>
+<language>
+<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+<physicalDescription>
+<form authority="marcform">print</form>
+<extent unit= >384 p. ; 5.20" x 7.90" x 1.20"</extent>
+</physicalDescription>
+<subject>
+<geographicCode authority="marcgac">n-us-ny</geographicCode>
+</subject>
+<subject authority="lcsh">
+<topic>Bildungsromans</topic>
+<geographic>United States</geographic>
+<tempral>Twenty-first century</temporal>
+</subject>
+<subject authority="lcsh">
+<topic>Religion</topic>
+<topic>Culture</topic>
+<geographic>United States</geographic>
+</subject>
+<subject authority="lcsh">
+<topic>Immigrants</topic>
+<topic>Immigrant Children</topic>
+<geographic>United States</geographic>
+</subject>
+<identifier type="isbn">9780062662811</identifier>
+<recordInfo>
+<recordCreationDate>July 20, 2021</recordCreationDate>
+<recordOrigin>human prepared</recordOrigin>
+<languageOfCataloging authority="iso639-2b">eng</languageOfCataloging>
+</mods>
