@@ -1,6 +1,6 @@
 # YA Pathfinder
 
-Repository containg the Drupal files for the Young Adult (YA) literature pathfinder website I worked on for a library science class I took in Summer 2021. 
+Repository containg the Drupal files for the Young Adult (YA) literature pathfinder website I worked on for a library science class I took in Summer 2021. The mods_metadata folder contains the MODS metadata descriptions for the books mentioned on the pathfinder website. 
 
 ## Installation
 
